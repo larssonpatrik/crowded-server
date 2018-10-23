@@ -1,0 +1,19 @@
+{
+  "name": "crowded-server",
+  "version": "0.0.1",
+  "description": "Server for the crowded project",
+  "main": "nodeTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larssonpatrik/crowded-server.git"
+  },
+  "author": "Patrik Larsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larssonpatrik/crowded-server/issues"
+  },
+  "homepage": "https://github.com/larssonpatrik/crowded-server#readme"
+}
